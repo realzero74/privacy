@@ -1,0 +1,20 @@
+{
+  "attachmentFolderPath": "files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "showUnsupportedFiles": false,
+  "autoConvertHtml": true,
+  "alwaysUpdateLinks": true,
+  "showRibbon": true,
+  "showInlineTitle": false
+}
